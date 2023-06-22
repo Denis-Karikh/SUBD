@@ -8,5 +8,5 @@
 
 ## 4.<code>[Компоненты современной СУБД](https://github.com/Denis-Karikh/SUBD/blob/c1c1b4bb1ad7692a8333dd171f59381efd8bb364/lesson-2/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94.md)</code>
 
-## 5.<code>[ДЗ: Установка СУБД PostgreSQL](https://github.com/Denis-Karikh/SUBD/tree/5fdb74f4ee9613fcf1cdd82d1a80e3da60a7a240/lesson-03)</code>   
+## 5.<code>[ДЗ: Установка СУБД PostgreSQL](https://github.com/Denis-Karikh/SUBD/tree/ca43570482f9089031b6ed924edec1764d743d66/lesson-03)</code>   
 
