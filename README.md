@@ -10,3 +10,7 @@
 
 ## 5.<code>[ДЗ: Установка СУБД PostgreSQL](https://github.com/Denis-Karikh/SUBD/tree/ca43570482f9089031b6ed924edec1764d743d66/lesson-03)</code>   
 
+## 6.<code>[ДЗ: DDL скрипты для postgres](https://github.com/Denis-Karikh/SUBD/blob/2903ee2cde048f2d5f7a89af21ab12057d89da5c/lesson-4/created.md)</code>   
+
+
+
