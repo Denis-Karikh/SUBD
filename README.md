@@ -12,5 +12,9 @@
 
 ## 6.<code>[ДЗ: DDL скрипты для postgres](https://github.com/Denis-Karikh/SUBD/blob/2903ee2cde048f2d5f7a89af21ab12057d89da5c/lesson-4/created.md)</code>   
 
+## 7.<code>[ДЗ: DML в PostgreSQL](https://github.com/Denis-Karikh/SUBD/blob/2c55c6c0a728d3952a6bff7a998d4a8a88cf055e/lesson-5/5.md)</code>   
+
+
+
 
 
