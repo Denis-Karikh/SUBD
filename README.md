@@ -14,6 +14,9 @@
 
 ## 7.<code>[ДЗ: DML в PostgreSQL](https://github.com/Denis-Karikh/SUBD/blob/2c55c6c0a728d3952a6bff7a998d4a8a88cf055e/lesson-5/5.md)</code>   
 
+## 8.<code>[ДЗ: Индексы PostgreSQL](https://github.com/Denis-Karikh/SUBD/tree/9cee2094e071efd2189fd7edd94c733f4a9ec3c0/lesson-6)</code>   
+
+
 
 
 
