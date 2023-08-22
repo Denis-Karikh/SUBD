@@ -16,6 +16,7 @@
 
 ## 8.<code>[ДЗ: Индексы PostgreSQL](https://github.com/Denis-Karikh/SUBD/tree/9cee2094e071efd2189fd7edd94c733f4a9ec3c0/lesson-6)</code>   
 
+## 9.<code>[ДЗ: Посчитать кол-во очков по всем игрокам за текущий год и за предыдущий.](https://github.com/Denis-Karikh/SUBD/tree/b98c28e08ee3d5e193f9965107f2c4f9f29259ac/Lesson-7)</code>   
 
 
 
