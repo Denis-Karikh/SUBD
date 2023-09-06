@@ -18,7 +18,7 @@
 
 ## 9.<code>[ДЗ: Посчитать кол-во очков по всем игрокам за текущий год и за предыдущий.](https://github.com/Denis-Karikh/SUBD/tree/b98c28e08ee3d5e193f9965107f2c4f9f29259ac/Lesson-7)</code>   
 
-## 10.<code>[ДЗ: Репликация.]([https://github.com/Denis-Karikh/SUBD/tree/b98c28e08ee3d5e193f9965107f2c4f9f29259ac/Lesson-7](https://github.com/Denis-Karikh/SUBD/blob/d184309da376e38b00b566ff860b38992e4da3c1/lesson-8/%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.md))</code>  
+## 10.<code>[ДЗ: Репликация.](https://github.com/Denis-Karikh/SUBD/blob/d184309da376e38b00b566ff860b38992e4da3c1/lesson-8/%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.md)</code>  
 
 
 
