@@ -1,6 +1,6 @@
 ## 1.Забрал стартовый репозиторий.
 
-![alt text](https://ibb.co/k3ssGQg/image.png)
+![alt text](https://i.ibb.co/Gs44dcv/123.png)
 
 ## 2. Прописал свой скрипт на создание БД.
 ```sql
@@ -71,6 +71,6 @@ CREATE INDEX idx_Product_Category_Product_name  ON Product(Category_id,Product_n
 ```
 ## 3.Выполнил шаги согласно инструкции
 
-![alt text](https://ibb.co/DfhkN9M/image.png)
+![alt text](https://i.ibb.co/qYK9zNg/1234.png)
 
-![alt text](https://ibb.co/3r7khj4/image.png)
+![alt text](https://i.ibb.co/Tvkrh7Y/12345.png)
