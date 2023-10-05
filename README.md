@@ -24,6 +24,10 @@
 
 ## 12.<code>[ДЗ:Типы данных в MySQL.](https://github.com/Denis-Karikh/SUBD/blob/78b803b2cbd0e12b6f4ac15d0ae5ac904330a1ae/lesson-10/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20MySQL.md)</code>  
 
+## 13.<code>[ДЗ:DML: вставка, обновление, удаление, выборка данных.](https://github.com/Denis-Karikh/SUBD/blob/0a4b650765ccc6553f4d6336f201ec160a8c5b04/lesson-11/DML%3A%20%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%2C%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.md)</code>  
+
+
+
 
 
 
