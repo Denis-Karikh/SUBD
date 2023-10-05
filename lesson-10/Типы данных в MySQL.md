@@ -11,7 +11,7 @@
 Поддержка валют: Если вам нужно хранить информацию о валюте вместе с ценами, вы можете легко добавить дополнительное поле для валюты, не внося изменений в формат цены.
 ```
 # Добавить тип JSON в структуру. Проанализировать какие данные могли бы там хранится. привести примеры SQL для добавления записей и выборки.
-
+```sql
 INSERT INTO Shop.Product_Category (Category_id, Name) VALUES (1, 'Дом');
 
 INSERT INTO Shop.Provider (Provider_id, Provider_name, Product_id) VALUES (1, 'ООО Чайник', 1);
@@ -27,7 +27,7 @@ json_extract(info, '$."Описание"') AS "Описание",
 json_extract(info, '$."Размер"') AS "Размер",
 json_extract(info, '$."Состав"') AS "Состав"
 FROM Shop.Product p
-
+```
 
 
 
