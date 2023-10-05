@@ -22,6 +22,10 @@
 
 ## 11.<code>[ДЗ: Создаем базу данных MySQL в докере.](https://github.com/Denis-Karikh/SUBD/blob/0ebff65ebab33989f867d538a3b0d4e240490a3d/lesson-9/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC%20%D0%B1%D0%B0%D0%B7%D1%83%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20MySQL%20%D0%B2%20%D0%B4%D0%BE%D0%BA%D0%B5%D1%80%D0%B5.md)</code>  
 
+## 12.<code>[ДЗ:Типы данных в MySQL.](https://github.com/Denis-Karikh/SUBD/blob/78b803b2cbd0e12b6f4ac15d0ae5ac904330a1ae/lesson-10/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20MySQL.md)</code>  
+
+
+
 
 
 
