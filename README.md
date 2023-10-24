@@ -30,6 +30,9 @@
 
 ## 15.<code>[ДЗ:Транзакции](https://github.com/Denis-Karikh/SUBD/blob/f3e340a40461cb4e7061a0b6a845ae9308c009d7/lesson-13/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8.md)</code>  
 
+## 16.<code>[ДЗ:Индексы](https://github.com/Denis-Karikh/SUBD/blob/bf172c0e409b5063b2d2a124de7e6492983bf615/Lessons-14/%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B.md)</code>  
+
+
 
 
 
