@@ -32,6 +32,9 @@
 
 ## 16.<code>[ДЗ:Индексы](https://github.com/Denis-Karikh/SUBD/blob/bf172c0e409b5063b2d2a124de7e6492983bf615/Lessons-14/%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B.md)</code>  
 
+## 18.<code>[ДЗ:Сделать бэкап и затем восстановится с него.](https://github.com/Denis-Karikh/SUBD/blob/e0718768cb671db5028f0835a7f57f0c2d58515e/lesson-16/16.md)</code>  
+
+
 
 
 
