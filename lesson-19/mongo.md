@@ -26,17 +26,17 @@ db.customers.insertMany( <данные_из_файла_generated.json> )
 # 3. Запросы данных на выборку и обновление
 
 ### Выведем пользователей мужского пола:
-``cmd
+```cmd
 db.customers.find({gender: "male"})
 ```
-Результат 3 записи.
+#### Результат 3 записи.
 
 ### Найдём пользователей, у которых в массиве друзей имя первого друга Diaz Hodges
 ```cmd
 db.customers.find({"friends.0.name": "Diaz Hodges"})
 ```
 ### Результат
-``sql
+```sql
 {
     _id: '65699e20e2333f953b85d3da',
     ...
@@ -49,11 +49,11 @@ db.customers.find({"friends.0.name": "Diaz Hodges"})
 
 ### Запросы на обновление.
 
-Обновим возраст пользователя с id 65699e20e2333f953b85d3da с 22 до 23:
+#### Обновим возраст пользователя с id 65699e20e2333f953b85d3da с 22 до 23:
 ```sql
 db.customers.updateOne({_id : "65699e20e2333f953b85d3da"}, {$set: {age : 23}})
 ```
-Добавим пользователю с id 65699e20e2333f953b85d3da ещё одного друга Brock Buck
+#### Добавим пользователю с id 65699e20e2333f953b85d3da ещё одного друга Brock Buck
 ```sql
 db.customers.updateOne({_id: "65699e20e2333f953b85d3da"}, {$addToSet: {friends: { id: "65699e209efc374cf54f7706", name: "Shirley Buckner" }}})
 ```
