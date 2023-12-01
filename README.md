@@ -34,6 +34,8 @@
 
 ## 18.<code>[ДЗ:Сделать бэкап и затем восстановится с него.](https://github.com/Denis-Karikh/SUBD/blob/e0718768cb671db5028f0835a7f57f0c2d58515e/lesson-16/16.md)</code>  
 
+## 21.<code>[ДЗ:MongoDB.](https://github.com/Denis-Karikh/SUBD/blob/e89537621cfdceca6d437cce047a2e01a82c271f/lesson-19/mongo.md)</code>  
+
 
 
 
