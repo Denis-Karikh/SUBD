@@ -32,6 +32,8 @@
 
 ## 16.<code>[ДЗ:Индексы](https://github.com/Denis-Karikh/SUBD/blob/bf172c0e409b5063b2d2a124de7e6492983bf615/Lessons-14/%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B.md)</code>  
 
+## 17.<code>[ДЗ:Добавляем в базу хранимые процедуры и триггеры](https://github.com/Denis-Karikh/SUBD/tree/115668987e146fec2a737d07b94b5f350a941bfe/lesson-17)</code>  
+
 ## 18.<code>[ДЗ:Сделать бэкап и затем восстановится с него.](https://github.com/Denis-Karikh/SUBD/blob/e0718768cb671db5028f0835a7f57f0c2d58515e/lesson-16/16.md)</code>  
 
 ## 19. <code>[ДЗ:Спрогнозировать рост данных и спроектировать модель хранения и архивации.](https://github.com/Denis-Karikh/SUBD/blob/2f9ed49e92f4dbb1ece0291b0d24d935f9c180a1/lesson-18/18.md)</code>  
@@ -40,6 +42,7 @@
 
 ## 21.<code>[ДЗ:MongoDB.](https://github.com/Denis-Karikh/SUBD/blob/e89537621cfdceca6d437cce047a2e01a82c271f/lesson-19/mongo.md)</code>  
 
+https://github.com/Denis-Karikh/SUBD/tree/115668987e146fec2a737d07b94b5f350a941bfe/lesson-17
 
 
 
