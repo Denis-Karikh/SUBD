@@ -85,4 +85,20 @@ CREATE INDEX idx_Price_Product_id  ON Price(Product_id);
 CREATE INDEX idx_Orders_Customers_Product  ON Orders(Customers_id,Product_id); 
 CREATE INDEX idx_Product_Category_Product_name  ON Product(Category_id,Product_name);
 CREATE FULLTEXT INDEX idx_FULLTEXT_Product ON Product (Product_name,Description,Property);
+
+CREATE DEFINER=root`@% PROCEDURE `Shop.Disco()
+Begin
+  DECLARE WEEK_DAY VARCHAR(125);
+    SET WEEK_DAY = DAYNAME(NOW());
+    UPDATE Product_Category pc set EDiscount = 1;
+    UPDATE Product p set Discount = basic_dicount;
+  UPDATE Product p
+   inner join discount_dayweek dd on p.Category_id = dd.Product_Category_id 
+   SET p.Discount = p.basic_dicount + dd.discount
+   WHERE  WEEK_DAY = dd.dayweek ;
+   UPDATE Product_Category pc
+   inner join discount_dayweek dd on dd.Product_Category_id = pc.Category_id
+   SET pc.EDiscount = 0 where WEEK_DAY =dd.dayweek;
+ END;
+
 ```
