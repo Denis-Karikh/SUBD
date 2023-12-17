@@ -42,7 +42,9 @@
 
 ## 21.<code>[ДЗ:MongoDB.](https://github.com/Denis-Karikh/SUBD/blob/e89537621cfdceca6d437cce047a2e01a82c271f/lesson-19/mongo.md)</code>  
 
-https://github.com/Denis-Karikh/SUBD/tree/115668987e146fec2a737d07b94b5f350a941bfe/lesson-17
+## 22.<code>[ДЗ:Интернет-магазин.](https://github.com/Denis-Karikh/SUBD/blob/b4986288ee777ea6ffba6e931c0bfadd4d6ff7b7/diplom/readme.md)</code>  
+
+
 
 
 
